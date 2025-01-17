@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jasmine"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jasmine": "^5.5.0"
   }
 }
