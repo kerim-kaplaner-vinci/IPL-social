@@ -1,7 +1,8 @@
 # IPL Social
 
 ## Auteur
-- **Nom** : Kaplaner Kerim
+- **Nom** : Kaplaner
+- **Prénom** : Kerim
 - **Email** : kerim.kaplaner@student.vinci.be
 
 ## URL du projet GitHub
